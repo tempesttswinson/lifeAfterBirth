@@ -1,0 +1,35 @@
+html{
+	background-color: #F1948A !important;
+}
+nav{
+	background-color: #DAF7A6;
+}
+nav a{
+	color: #F1948A;
+}
+nav a:hover{
+	color: grey;
+}
+/*.header_container{
+	background-color: #F1948A;
+}*/
+.jumbotron{
+	height: 750px;
+	margin: 20px 20px;
+	background-image: url("./Pictures/welcome.jpg");
+	background-size: cover;
+}
+.jumbotron_text{
+	background-color: grey;
+	opacity: 85%;
+	padding: 25px;
+}
+header img {
+	width: 35%;
+}
+.card{
+	margin: 25px;
+}
+.btn-success{
+	background-color: #F1948A !important;
+}
